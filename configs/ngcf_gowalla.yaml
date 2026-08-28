@@ -1,0 +1,13 @@
+data:
+  name: gowalla
+
+model:
+  name: ngcf
+  embed_dim: 64
+  n_layers: 3
+  node_dropout: 0.1
+  message_dropout: 0.1
+
+train:
+  lr: 0.0001
+  reg_weight: 0.00001

@@ -1,0 +1,13 @@
+{
+ "dataset": "yelp2018",
+ "tau_min": 2,
+ "aborted": "face cap 120,000,000 exceeded",
+ "completed_rungs": [
+  20,
+  12,
+  8,
+  5,
+  4,
+  3
+ ]
+}

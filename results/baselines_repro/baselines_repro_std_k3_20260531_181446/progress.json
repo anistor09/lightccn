@@ -1,0 +1,31 @@
+{
+  "notebook_name": "baselines_repro",
+  "notebook_run_id": "std_k3_20260531_181446",
+  "total_planned": 20,
+  "completed": 20,
+  "failed": 0,
+  "finished_keys": [
+    "mf__beidian",
+    "lightgcn__beidian",
+    "ngcf__beidian",
+    "simgcl__beidian",
+    "mf__amazon-music",
+    "lightgcn__amazon-music",
+    "ngcf__amazon-music",
+    "simgcl__amazon-music",
+    "mf__foursquare-nyc",
+    "lightgcn__foursquare-nyc",
+    "ngcf__foursquare-nyc",
+    "simgcl__foursquare-nyc",
+    "mf__gowalla",
+    "lightgcn__gowalla",
+    "ngcf__gowalla",
+    "simgcl__gowalla",
+    "mf__yelp2018",
+    "lightgcn__yelp2018",
+    "ngcf__yelp2018",
+    "simgcl__yelp2018"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 22:35:42"
+}

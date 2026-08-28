@@ -1,0 +1,67 @@
+{
+  "notebook_name": "baselines_mf_ngcf",
+  "notebook_run_id": "std_k3_20260531_162625",
+  "rows": [
+    {
+      "model": "mf",
+      "dataset": "beidian",
+      "best_epoch": 120,
+      "recall@5": 0.036065573770491806,
+      "recall@20": 0.0953551912568306,
+      "ndcg@5": 0.023938335119871028,
+      "ndcg@20": 0.040284673178959465,
+      "wall_s": 35.8
+    },
+    {
+      "model": "mf",
+      "dataset": "amazon-music",
+      "best_epoch": 360,
+      "recall@5": 0.08797386268275444,
+      "recall@20": 0.18714132945588827,
+      "ndcg@5": 0.06824386777925955,
+      "ndcg@20": 0.09854763352908905,
+      "wall_s": 124.4
+    },
+    {
+      "model": "mf",
+      "dataset": "foursquare-nyc",
+      "best_epoch": 50,
+      "recall@5": 0.011236704459614947,
+      "recall@20": 0.027366919819610095,
+      "ndcg@5": 0.03706437910538322,
+      "ndcg@20": 0.03121682427405566,
+      "wall_s": 53.0
+    },
+    {
+      "model": "ngcf",
+      "dataset": "beidian",
+      "best_epoch": 50,
+      "recall@5": 0.033879781420765025,
+      "recall@20": 0.09180327868852459,
+      "ndcg@5": 0.02028980051303959,
+      "ndcg@20": 0.03649059766819269,
+      "wall_s": 30.3
+    },
+    {
+      "model": "ngcf",
+      "dataset": "amazon-music",
+      "best_epoch": 200,
+      "recall@5": 0.07331085947260733,
+      "recall@20": 0.1842670483293968,
+      "ndcg@5": 0.056359229981025355,
+      "ndcg@20": 0.08995555892939053,
+      "wall_s": 110.6
+    },
+    {
+      "model": "ngcf",
+      "dataset": "foursquare-nyc",
+      "best_epoch": 10,
+      "recall@5": 0.008740696146856804,
+      "recall@20": 0.024401472038762948,
+      "ndcg@5": 0.0319885554756579,
+      "ndcg@20": 0.027655952022108746,
+      "wall_s": 50.8
+    }
+  ],
+  "timestamp": "2026-05-31 16:34:02"
+}

@@ -1,0 +1,37 @@
+{
+  "notebook_name": "baselines_mf_ngcf_simgcl",
+  "notebook_run_id": "std_k3_20260531_170149",
+  "rows": [
+    {
+      "model": "simgcl",
+      "dataset": "beidian",
+      "best_epoch": 110,
+      "recall@5": 0.048633879781420766,
+      "recall@20": 0.10628415300546448,
+      "ndcg@5": 0.03260772353172695,
+      "ndcg@20": 0.04902477780935044,
+      "wall_s": 58.1
+    },
+    {
+      "model": "simgcl",
+      "dataset": "amazon-music",
+      "best_epoch": 80,
+      "recall@5": 0.14300889269665235,
+      "recall@20": 0.26007786774548597,
+      "ndcg@5": 0.11225513934017693,
+      "ndcg@20": 0.14788164783175684,
+      "wall_s": 60.1
+    },
+    {
+      "model": "simgcl",
+      "dataset": "foursquare-nyc",
+      "best_epoch": 30,
+      "recall@5": 0.011729191614638748,
+      "recall@20": 0.022966469575408554,
+      "ndcg@5": 0.03844524092601548,
+      "ndcg@20": 0.028828777916005313,
+      "wall_s": 103.7
+    }
+  ],
+  "timestamp": "2026-05-31 17:06:06"
+}

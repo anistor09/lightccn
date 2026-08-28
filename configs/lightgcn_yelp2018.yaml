@@ -1,0 +1,11 @@
+data:
+  name: yelp2018
+
+model:
+  name: lightgcn
+  embed_dim: 64
+  n_layers: 3
+
+train:
+  lr: 0.001
+  reg_weight: 0.0001

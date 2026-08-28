@@ -1,0 +1,14 @@
+{
+  "notebook_name": "baselines_repro",
+  "notebook_run_id": "std_k3_20260531_181227",
+  "total_planned": 20,
+  "completed": 3,
+  "failed": 0,
+  "finished_keys": [
+    "mf__beidian",
+    "lightgcn__beidian",
+    "ngcf__beidian"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 18:13:45"
+}

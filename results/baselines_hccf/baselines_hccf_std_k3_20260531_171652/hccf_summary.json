@@ -1,0 +1,37 @@
+{
+  "notebook_name": "baselines_hccf",
+  "notebook_run_id": "std_k3_20260531_171652",
+  "rows": [
+    {
+      "model": "hccf",
+      "dataset": "beidian",
+      "best_epoch": 60,
+      "recall@5": 0.000273224043715847,
+      "recall@20": 0.005737704918032787,
+      "ndcg@5": 0.00010569748831544853,
+      "ndcg@20": 0.0015363720228535052,
+      "wall_s": 36.0
+    },
+    {
+      "model": "hccf",
+      "dataset": "amazon-music",
+      "best_epoch": 600,
+      "recall@5": 0.011080419326382556,
+      "recall@20": 0.026039900727841576,
+      "ndcg@5": 0.00823138473265135,
+      "ndcg@20": 0.01270732582053106,
+      "wall_s": 280.7
+    },
+    {
+      "model": "hccf",
+      "dataset": "foursquare-nyc",
+      "best_epoch": 40,
+      "recall@5": 3.419855682090216e-05,
+      "recall@20": 0.0006131235341318559,
+      "ndcg@5": 0.0003131673178888422,
+      "ndcg@20": 0.0006366809260277747,
+      "wall_s": 66.4
+    }
+  ],
+  "timestamp": "2026-05-31 17:24:12"
+}

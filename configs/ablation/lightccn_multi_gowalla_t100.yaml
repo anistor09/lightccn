@@ -1,0 +1,12 @@
+data:
+  name: gowalla
+
+complex:
+  tau: 100
+
+model:
+  name: lightccn_multi
+  embed_dim: 64
+  n_layers: 3
+  edge_embed_dim: 64
+  face_embed_dim: 64

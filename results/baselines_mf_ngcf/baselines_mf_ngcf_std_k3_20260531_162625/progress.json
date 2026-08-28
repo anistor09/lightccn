@@ -1,0 +1,17 @@
+{
+  "notebook_name": "baselines_mf_ngcf",
+  "notebook_run_id": "std_k3_20260531_162625",
+  "total_planned": 6,
+  "completed": 6,
+  "failed": 0,
+  "finished_keys": [
+    "mf__beidian",
+    "mf__amazon-music",
+    "mf__foursquare-nyc",
+    "ngcf__beidian",
+    "ngcf__amazon-music",
+    "ngcf__foursquare-nyc"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 16:34:01"
+}

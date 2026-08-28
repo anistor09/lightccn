@@ -1,0 +1,22 @@
+{
+  "notebook_name": "ciaodvd_uiedge",
+  "notebook_run_id": "uiedge_20260605_011343",
+  "total_planned": 11,
+  "completed": 11,
+  "failed": 0,
+  "finished_keys": [
+    "lightgcn__L3",
+    "stateful_ef__softmax__global__L3__none__uiedge",
+    "stateful_ef__softmax__global__L3__ho_user__uiedge",
+    "stateful_e__softmax__global__L3__none__uiedge",
+    "stateful_e__softmax__global__L3__ho_user__uiedge",
+    "derived_e__softmax__global__L3__none__uiedge",
+    "derived_e__softmax__global__L3__ho_user__uiedge",
+    "stateful_e__softplus__global__L3__none__uiedge",
+    "stateful_e__softplus__global__L3__ho_user__uiedge",
+    "derived_ef__softmax__global__L3__none__uiedge",
+    "derived_ef__softmax__global__L3__ho_user__uiedge"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-06-05 01:28:15"
+}

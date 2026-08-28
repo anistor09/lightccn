@@ -1,0 +1,12 @@
+{
+  "notebook_name": "baselines_hccf",
+  "notebook_run_id": "std_k3_20260531_210625",
+  "total_planned": 9,
+  "completed": 1,
+  "failed": 0,
+  "finished_keys": [
+    "hccf__beidian__clw1e-05"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 21:10:23"
+}

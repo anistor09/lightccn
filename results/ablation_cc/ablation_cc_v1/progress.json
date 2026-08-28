@@ -1,0 +1,21 @@
+{
+  "notebook_name": "ablation_cc",
+  "notebook_run_id": "v1",
+  "total_planned": 10,
+  "completed": 10,
+  "failed": 0,
+  "finished_keys": [
+    "amazon-music__lightgcn_cc__L3",
+    "amazon-music__lightgcn_cc__L4",
+    "beidian__lightgcn_cc__L3",
+    "beidian__lightgcn_cc__L4",
+    "ciaodvd__lightgcn_cc__L3",
+    "ciaodvd__lightgcn_cc__L4",
+    "epinions__lightgcn_cc__L3",
+    "epinions__lightgcn_cc__L4",
+    "foursquare-nyc__lightgcn_cc__L3",
+    "foursquare-nyc__lightgcn_cc__L4"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-07-08 08:07:24"
+}

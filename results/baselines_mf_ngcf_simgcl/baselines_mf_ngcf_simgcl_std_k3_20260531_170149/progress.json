@@ -1,0 +1,14 @@
+{
+  "notebook_name": "baselines_mf_ngcf_simgcl",
+  "notebook_run_id": "std_k3_20260531_170149",
+  "total_planned": 3,
+  "completed": 3,
+  "failed": 0,
+  "finished_keys": [
+    "simgcl__beidian",
+    "simgcl__amazon-music",
+    "simgcl__foursquare-nyc"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 17:06:05"
+}

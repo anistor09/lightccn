@@ -1,0 +1,12 @@
+{
+  "notebook_name": "gowalla_se_sm_l3",
+  "notebook_run_id": "newdata_20260602_181255",
+  "total_planned": 1,
+  "completed": 1,
+  "failed": 0,
+  "finished_keys": [
+    "stateful_e__softmax__global__L3"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-06-02 20:12:32"
+}

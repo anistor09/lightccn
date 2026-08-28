@@ -1,0 +1,19 @@
+{
+  "notebook_name": "abl_night2",
+  "notebook_run_id": "v1",
+  "total_planned": 8,
+  "completed": 8,
+  "failed": 0,
+  "finished_keys": [
+    "base__epinions__hccf__L3__tst",
+    "base__epinions__hccf__L3__val",
+    "base__epinions__mf__L3__tst",
+    "base__epinions__mf__L3__val",
+    "base__epinions__ngcf__L3__tst",
+    "base__epinions__ngcf__L3__val",
+    "base__epinions__simgcl__L3__tst",
+    "base__epinions__simgcl__L3__val"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-07-09 02:45:22"
+}

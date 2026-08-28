@@ -1,0 +1,36 @@
+{
+  "notebook_name": "readout_ablation",
+  "notebook_run_id": "readout_20260531_225435",
+  "experiment": "higher_order_readout_ablation",
+  "datasets": [
+    "beidian",
+    "foursquare-nyc",
+    "amazon-music"
+  ],
+  "props": [
+    "derived_e",
+    "derived_ef",
+    "stateful_e",
+    "stateful_ef"
+  ],
+  "weight_modes": [
+    "softplus",
+    "signed",
+    "softmax"
+  ],
+  "readouts": [
+    "ho_item",
+    "ho_user",
+    "ho_both"
+  ],
+  "epochs": 600,
+  "early_stop_patience": 40,
+  "tau": 3,
+  "embed_dim": 64,
+  "n_layers": 2,
+  "total_planned": 111,
+  "succeeded": 111,
+  "failed": 0,
+  "failed_keys": {},
+  "timestamp": "2026-06-01 01:46:21"
+}

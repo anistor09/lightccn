@@ -1,0 +1,14 @@
+{
+  "notebook_name": "baselines_hccf",
+  "notebook_run_id": "std_k3_20260531_175006",
+  "total_planned": 3,
+  "completed": 3,
+  "failed": 0,
+  "finished_keys": [
+    "hccf__beidian",
+    "hccf__amazon-music",
+    "hccf__foursquare-nyc"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 17:57:43"
+}

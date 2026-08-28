@@ -1,0 +1,67 @@
+{
+  "notebook_name": "ngcf_retest",
+  "notebook_run_id": "std_k3_20260601_214313",
+  "rows": [
+    {
+      "dataset": "beidian",
+      "best_epoch": 200,
+      "R20": 0.0956,
+      "R20_pub": null,
+      "R20_chk": "\u2014",
+      "N20": 0.0383,
+      "N20_pub": null,
+      "N20_chk": "\u2014",
+      "n_evals": 15,
+      "last_ep": 300
+    },
+    {
+      "dataset": "amazon-music",
+      "best_epoch": 200,
+      "R20": 0.1967,
+      "R20_pub": null,
+      "R20_chk": "\u2014",
+      "N20": 0.0978,
+      "N20_pub": null,
+      "N20_chk": "\u2014",
+      "n_evals": 15,
+      "last_ep": 300
+    },
+    {
+      "dataset": "foursquare-nyc",
+      "best_epoch": 20,
+      "R20": 0.0329,
+      "R20_pub": null,
+      "R20_chk": "\u2014",
+      "N20": 0.0388,
+      "N20_pub": null,
+      "N20_chk": "\u2014",
+      "n_evals": 6,
+      "last_ep": 120
+    },
+    {
+      "dataset": "gowalla",
+      "best_epoch": 100,
+      "R20": 0.1295,
+      "R20_pub": 0.157,
+      "R20_chk": "-17.5% ~",
+      "N20": 0.1099,
+      "N20_pub": 0.1327,
+      "N20_chk": "-17.2% ~",
+      "n_evals": 10,
+      "last_ep": 200
+    },
+    {
+      "dataset": "yelp2018",
+      "best_epoch": 20,
+      "R20": 0.044,
+      "R20_pub": 0.0579,
+      "R20_chk": "-24.0% ~",
+      "N20": 0.036,
+      "N20_pub": 0.0477,
+      "N20_chk": "-24.5% ~",
+      "n_evals": 6,
+      "last_ep": 120
+    }
+  ],
+  "timestamp": "2026-06-02 02:24:25"
+}

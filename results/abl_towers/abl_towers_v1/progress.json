@@ -1,0 +1,31 @@
+{
+  "notebook_name": "abl_towers",
+  "notebook_run_id": "v1",
+  "total_planned": 20,
+  "completed": 20,
+  "failed": 0,
+  "finished_keys": [
+    "twr__amazon-music__ho_both__L3__tst",
+    "twr__amazon-music__ho_both__L3__val",
+    "twr__amazon-music__ho_item__L3__tst",
+    "twr__amazon-music__ho_item__L3__val",
+    "twr__beidian__ho_both__L3__tst",
+    "twr__beidian__ho_both__L3__val",
+    "twr__beidian__ho_item__L3__tst",
+    "twr__beidian__ho_item__L3__val",
+    "twr__ciaodvd__ho_both__L3__tst",
+    "twr__ciaodvd__ho_both__L3__val",
+    "twr__ciaodvd__ho_item__L3__tst",
+    "twr__ciaodvd__ho_item__L3__val",
+    "twr__epinions__ho_both__L3__tst",
+    "twr__epinions__ho_both__L3__val",
+    "twr__epinions__ho_item__L3__tst",
+    "twr__epinions__ho_item__L3__val",
+    "twr__foursquare-nyc__ho_both__L3__tst",
+    "twr__foursquare-nyc__ho_both__L3__val",
+    "twr__foursquare-nyc__ho_item__L3__tst",
+    "twr__foursquare-nyc__ho_item__L3__val"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-07-08 15:29:25"
+}

@@ -1,0 +1,16 @@
+{
+  "notebook_name": "ngcf_retest",
+  "notebook_run_id": "std_k3_20260601_214313",
+  "total_planned": 5,
+  "completed": 5,
+  "failed": 0,
+  "finished_keys": [
+    "ngcf__beidian",
+    "ngcf__amazon-music",
+    "ngcf__foursquare-nyc",
+    "ngcf__gowalla",
+    "ngcf__yelp2018"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-06-02 02:24:23"
+}

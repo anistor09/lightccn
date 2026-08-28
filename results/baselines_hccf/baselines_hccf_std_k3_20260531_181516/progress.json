@@ -1,0 +1,20 @@
+{
+  "notebook_name": "baselines_hccf",
+  "notebook_run_id": "std_k3_20260531_181516",
+  "total_planned": 9,
+  "completed": 9,
+  "failed": 0,
+  "finished_keys": [
+    "hccf__beidian__clw1e-05",
+    "hccf__beidian__clw0.001",
+    "hccf__beidian__clw0.1",
+    "hccf__amazon-music__clw1e-05",
+    "hccf__amazon-music__clw0.001",
+    "hccf__amazon-music__clw0.1",
+    "hccf__foursquare-nyc__clw1e-05",
+    "hccf__foursquare-nyc__clw0.001",
+    "hccf__foursquare-nyc__clw0.1"
+  ],
+  "failed_keys": {},
+  "timestamp": "2026-05-31 19:08:35"
+}
